@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "Classic Coffee Mug",
+    "description": "A durable ceramic mug perfect for your morning coffee.",
+    "price": 299,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
+  },
+  {
+    "id": 2,
+    "title": "Wireless Headphones",
+    "description": "Noise-cancelling Bluetooth headphones with 30-hour battery life.",
+    "price": 2499,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1519677100203-a0e668c92439"
+  },
+  {
+    "id": 3,
+    "title": "Stylish Backpack",
+    "description": "Lightweight and water-resistant backpack ideal for daily use.",
+    "price": 1499,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+  },
+  {
+    "id": 4,
+    "title": "Men’s Casual T-Shirt",
+    "description": "Soft cotton t-shirt with a modern fit and breathable fabric.",
+    "price": 499,
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1520975922071-c0c7a0b1e1e3"
+  },
+  {
+    "id": 5,
+    "title": "Women’s Denim Jacket",
+    "description": "Classic denim jacket that pairs perfectly with any outfit.",
+    "price": 1299,
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1618354691433-6f9b6f7b46e5"
+  },
+  {
+    "id": 6,
+    "title": "Bluetooth Speaker",
+    "description": "Compact speaker with rich bass and 10-hour playtime.",
+    "price": 999,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2"
+  },
+  {
+    "id": 7,
+    "title": "Wooden Wall Clock",
+    "description": "Elegant handmade wall clock made of natural wood.",
+    "price": 899,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1572120360610-d971b9c79849"
+  },
+  {
+    "id": 8,
+    "title": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with adjustable DPI and silent clicks.",
+    "price": 599,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1587825140708-6b850361b6d8"
+  },
+  {
+    "id": 9,
+    "title": "Scented Candle Set",
+    "description": "Relaxing aroma candles made with 100% soy wax.",
+    "price": 799,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1512356166892-47a6c41b4046"
+  },
+  {
+    "id": 10,
+    "title": "Men’s Leather Wallet",
+    "description": "Premium leather wallet with RFID protection.",
+    "price": 699,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1618354693784-cc0b0bdfa56e"
+  },
+  {
+    "id": 11,
+    "title": "Wireless Keyboard",
+    "description": "Slim wireless keyboard with long battery life.",
+    "price": 899,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
+  },
+  {
+    "id": 12,
+    "title": "Succulent Plant Set",
+    "description": "Aesthetic indoor succulents for home and office decor.",
+    "price": 499,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1524594227084-df3f1e2ca5d4"
+  },
+  {
+    "id": 13,
+    "title": "Running Shoes",
+    "description": "Lightweight running shoes with great cushioning and grip.",
+    "price": 1799,
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3"
+  },
+  {
+    "id": 14,
+    "title": "Travel Duffel Bag",
+    "description": "Spacious and durable duffel bag perfect for weekend trips.",
+    "price": 1399,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1585238342023-78f0e6e6d8c8"
+  },
+  {
+    "id": 15,
+    "title": "Smartwatch",
+    "description": "Fitness smartwatch with heart rate, sleep, and step tracking.",
+    "price": 2999,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1519241047957-be31d7379a5d"
+  },
+  {
+    "id": 16,
+    "title": "Makeup Brush Set",
+    "description": "High-quality 12-piece brush set for flawless makeup application.",
+    "price": 799,
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1585386959984-a4155223f6d3"
+  },
+  {
+    "id": 17,
+    "title": "Novel: The Great Adventure",
+    "description": "A captivating story full of twists, turns, and excitement.",
+    "price": 399,
+    "category": "Books",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794"
+  },
+  {
+    "id": 18,
+    "title": "Essential Oil Diffuser",
+    "description": "Soothing aromatherapy diffuser for a calm and relaxing space.",
+    "price": 1199,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1582719478149-bb1f3e2b42c2"
+  },
+  {
+    "id": 19,
+    "title": "Sports Water Bottle",
+    "description": "Stainless steel water bottle with temperature retention.",
+    "price": 499,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1607344645866-9bdb5a0c7f83"
+  },
+  {
+    "id": 20,
+    "title": "Laptop Stand",
+    "description": "Adjustable aluminum stand for ergonomic laptop setup.",
+    "price": 999,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1587825140708-6b850361b6d8"
+  },
+  {
+    "id": 21,
+    "title": "Yoga Mat",
+    "description": "Non-slip yoga mat with extra cushioning for comfortable workouts.",
+    "price": 799,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1583454110551-21f88d3d3b37"
+  },
+  {
+    "id": 22,
+    "title": "Women’s Handbag",
+    "description": "Elegant and versatile handbag made from premium materials.",
+    "price": 1699,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1585386959984-a4155223f6d3"
+  },
+  {
+    "id": 23,
+    "title": "Bluetooth Earbuds",
+    "description": "Compact earbuds with noise cancellation and deep bass.",
+    "price": 1599,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1618366712010-f4a68f1c5c8f"
+  },
+  {
+    "id": 24,
+    "title": "Decorative Lamp",
+    "description": "Modern bedside lamp with soft warm lighting.",
+    "price": 899,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b"
+  },
+  {
+    "id": 25,
+    "title": "Notebook & Pen Set",
+    "description": "Stylish notebook with matching pen for daily journaling.",
+    "price": 349,
+    "category": "Books",
+    "image": "https://images.unsplash.com/photo-1494173853739-c21f58b16055"
+  },
+  {
+    "id": 26,
+    "title": "Face Moisturizer",
+    "description": "Hydrating moisturizer suitable for all skin types.",
+    "price": 599,
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519"
+  },
+  {
+    "id": 27,
+    "title": "Table Lamp",
+    "description": "Elegant desk lamp with adjustable brightness levels.",
+    "price": 1099,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511"
+  },
+  {
+    "id": 28,
+    "title": "Gaming Keyboard",
+    "description": "RGB mechanical keyboard built for gaming performance.",
+    "price": 2599,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+  },
+  {
+    "id": 29,
+    "title": "Wireless Charger",
+    "description": "Fast charging pad compatible with iPhone and Android.",
+    "price": 899,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1603791452906-bb7b70b58d6a"
+  },
+  {
+    "id": 30,
+    "title": "Kitchen Knife Set",
+    "description": "Professional stainless steel knife set for precision cooking.",
+    "price": 1799,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092"
+  }
+]
