@@ -9,7 +9,7 @@ export default function Navbar() {
 
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-primary sticky-top shadow-sm">
-      <div className="container">
+      <div className="container-fluid">
         {/* Brand */}
         <Link to="/" className="navbar-brand fw-bold fs-4">
           ShopEase

@@ -5,7 +5,7 @@
     "description": "A durable ceramic mug perfect for your morning coffee.",
     "price": 299,
     "category": "Home",
-    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
+    "image": "Images/ClassicCoffeeMug.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "description": "Noise-cancelling Bluetooth headphones with 30-hour battery life.",
     "price": 2499,
     "category": "Electronics",
-    "image": "https://images.unsplash.com/photo-1519677100203-a0e668c92439"
+    "image": "Images/WirelessHeadphones.webp"
   },
   {
     "id": 3,
