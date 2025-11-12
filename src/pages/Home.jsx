@@ -9,7 +9,7 @@ export default function Home() {
   const dispatch = useCartDispatch();
 
   useEffect(() => {
-    fetch("/src/data/products.json")
+    fetch("public/products.json")
       .then((res) => res.json())
       .then((data) => setProducts(data))
       .catch((err) => console.error("Error loading products:", err));
